@@ -2,13 +2,13 @@
     <channel>
         <title><![CDATA[Writeidea]]></title>
         <description><![CDATA[Writeidea]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/writeidea/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 31 Oct 2015 16:49:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 31 Oct 2015 16:55:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/writeidea/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinedee78d692-d923-4b2c-93a7-f54c7e3f75e3/index.html</link>
+            <link>https://thegrid.ai/writeidea/ee78d692-d923-4b2c-93a7-f54c7e3f75e3/index.html</link>
             <guid isPermaLink="false">ee78d692-d923-4b2c-93a7-f54c7e3f75e3</guid>
             <pubDate>Sat, 31 Oct 2015 16:49:14 GMT</pubDate>
         </item>
