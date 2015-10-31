@@ -1,0 +1,23 @@
+name: Writeidea
+favicon: null
+layout_spectrum: 0.9822462671436369
+typography_spectrum: 0.16537428461015224
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6091390133369714
+  lightness: 0.1246192289981991
+  saturation: 0.696888932492584
+  rhythmicContrast: 0.7686187331564724
+purpose: []
